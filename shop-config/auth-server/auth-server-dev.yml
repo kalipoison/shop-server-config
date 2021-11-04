@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     druid:
-      url: jdbc:mysql://localhost:3306/ego-shop?useSSL=false&serverTimezone=GMT%2B8
+      url: jdbc:mysql://localhost:3306/shop-server?useSSL=false&serverTimezone=GMT%2B8
       username: root
       password: root
       driver-class-name: com.mysql.cj.jdbc.Driver
